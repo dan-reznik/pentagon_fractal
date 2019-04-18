@@ -36,4 +36,4 @@ polyDF %>% mutate(polyI=row_number()) %>%
         panel.background = element_rect(fill="white"))
 ```
 
-<img src="poly_fractal_files/figure-markdown_github/unnamed-chunk-4-1.png" width="100%" />
+<img src="README_files/figure-markdown_github/unnamed-chunk-4-1.png" width="100%" />
